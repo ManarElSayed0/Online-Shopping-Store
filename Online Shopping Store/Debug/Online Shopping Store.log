@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ghada\source\repos\Online Shopping Store\Online Shopping Store\Source.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ghada\source\repos\Online Shopping Store\Online Shopping Store\Source.cpp(492,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ghada\source\repos\Online Shopping Store\Online Shopping Store\Source.cpp(571,68): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ghada\source\repos\Online Shopping Store\Online Shopping Store\Source.cpp(644): warning C4715: 'Login_shoppers': not all control paths return a value
+C:\Users\ghada\source\repos\Online Shopping Store\Online Shopping Store\Source.cpp(678): warning C4715: 'Login_owner': not all control paths return a value
+  Online Shopping Store.vcxproj -> C:\Users\ghada\source\repos\Online Shopping Store\Debug\Online Shopping Store.exe
